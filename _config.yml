@@ -1,7 +1,7 @@
 name: Tea and Cake
 favicon: null
-layout_spectrum: 0.7536896835081279
-typography_spectrum: 0.010850576218217611
+layout_spectrum: 0.08124
+typography_spectrum: 0.24399
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8148145051673055
-  lightness: 0.9204874637071043
-  saturation: 0.5948627055622637
-  rhythmicContrast: 0.3740921171847731
+    - '#ffffff'
+    - '#091009'
+    - '#fdff00'
+    - '#d9181b'
+    - '#787379'
+  brandStrength: 0.25
+  lightness: 0.3125
+  saturation: 0.375
+  rhythmicContrast: 0
 purpose: []
