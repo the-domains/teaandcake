@@ -1,20 +1,4 @@
-name: Tea and Cake
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.24399
-title: Well why not share likes and alike with the world!
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.3125
   saturation: 0.3125
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Tea and Cake
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Contact Us
+    id: 8ee2088f-1aeb-4197-903f-ff5a20a32012
+    type: content
+favicon: null
+title: Well why not share likes and alike with the world!
 purpose: []
